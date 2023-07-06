@@ -1,0 +1,14 @@
+[
+    {
+        "dish_id": 1,
+        "dish_name": "Paneer Tikka",
+        "price": 250,
+        "availability": true
+    },
+    {
+        "dish_id": 2,
+        "dish_name": "Butter Chicken",
+        "price": 300,
+        "availability": true
+    }
+]
